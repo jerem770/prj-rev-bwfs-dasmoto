@@ -1,0 +1,23 @@
+h1{
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url('/projects/dasmoto/resources/image/pattern.jpeg');
+}
+h2{
+  font-family: helvetica;
+  font-size: 32px;
+  color: white;
+  font-weight: bold;
+}
+
+#brushes{background-color: mediumspringgreen;}
+#frames{background-color: lightcoral;}
+#paint{background-color: skyblue;}
+
+b{color: blue;
+  font-weight: bold;
+  font-family: helvetica;
+}
